@@ -1,3 +1,2 @@
-demo="devopassement"
-print(demo)
+demo="devopsassement"
 print("Number of letters in the word devopsassessment is"(len(demo))
