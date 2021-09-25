@@ -1,0 +1,3 @@
+demo="devopassement"
+print(demo)
+print(len(demo))
